@@ -189,7 +189,6 @@ def settings():
     minus_2000_btn = Button(90, 40)
 
     equally_0_btn = Button(60, 40)
-
     start_btn = Button(130, 50)
 
     while settings:
